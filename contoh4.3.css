@@ -1,0 +1,18 @@
+.tp {
+    border: 5px solid red;
+    width: 100px;
+}
+.dp {
+    border: 5px solid red;
+    width: 100px;
+    padding: 10px;
+}
+.tm {
+    border: 5px solid red;
+    width: 100px;
+}
+.dm {
+    border: 5px solid red;
+    width: 100px;
+    margin-left: 50px;
+}

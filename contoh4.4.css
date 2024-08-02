@@ -1,0 +1,11 @@
+.kotak1{
+    background-color: rgb(25, 120, 209);
+    height: 100px;
+    width: 100px;
+    position: static;
+}
+.kotak2{
+    background-color: rgb(25, 209, 50);
+    height: 100px;
+    width: 100px;  
+}
